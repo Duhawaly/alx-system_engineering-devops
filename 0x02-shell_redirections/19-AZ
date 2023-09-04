@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -i 's/A/Z/g; s/c/e/g' yourfile.txt
+echo 'Replace all characters `A` and `c` from input to `Z` and `e`.' | ./19-AZ
