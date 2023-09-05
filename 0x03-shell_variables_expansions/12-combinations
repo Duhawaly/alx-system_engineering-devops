@@ -1,0 +1,5 @@
+#!/bin/bash
+if ! [[ "$NUM_VALUE" =~ ^[0-9]*(\.[0-9]+)?$ ]]; then
+echo "NUM is not a valid number."
+exit 1
+fi

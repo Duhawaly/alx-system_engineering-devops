@@ -1,0 +1,2 @@
+#!/bin/bash
+result=$((power_value / divide_value))
