@@ -1,2 +1,2 @@
 #!/bin/bash
-RESULT=$((128 + TRUEKNOWLEDGE_VALUE))
+result=$((128 + trueknowledge))

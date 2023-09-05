@@ -1,2 +1,2 @@
 #!/bin/bash
-results=$(echo "$BREATHE_value ^ $LOVE_value" | bc)
+results=$(echo "$breathe_value ^ $love_value" | bc)
