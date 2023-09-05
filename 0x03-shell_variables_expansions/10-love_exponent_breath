@@ -1,2 +1,2 @@
 #!/bin/bash
-results=$(echo "$breathe_value ^ $love_value" | bc)
+echo $((BREATH**$LOVE))
