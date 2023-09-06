@@ -1,2 +1,2 @@
 #!/bin/bash
-result=$(expr $WATER + $STIR)
+paste - - | cut -d$'\t' -f1
